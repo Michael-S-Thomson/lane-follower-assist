@@ -1,0 +1,39 @@
+ Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+ Jupyter
+
+.ipynb_checkpoints/
+
+ Virtual environments
+
+venv/
+env/
+.venv/
+
+ IDE
+
+.vscode/
+.idea/
+
+ Operating system
+
+.DS_Store
+Thumbs.db
+
+ Secrets
+
+.env
+*.env
+
+ Local data
+
+*.csv
+*.json
+
+ Logs
+
+*.log
