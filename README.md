@@ -80,31 +80,31 @@ The report describes the use of cameras, LiDAR, and radar as sensor technologies
 
 Sensors
 
-&#x20;  ↓
+    ↓
 
 Environment / Lane Data
 
-&#x20;  ↓
+    ↓
 
 Data Processing
 
-&#x20;  ↓
+    ↓
 
 Lane Detection
 
-&#x20;  ↓
+    ↓
 
 Lane Position Analysis
 
-&#x20;  ↓
+    ↓
 
 Control Algorithm
 
-&#x20;  ↓
+     ↓
 
 Steering Adjustment
 
-&#x20;  ↓
+     ↓
 
 Lane Following Assistance
 
