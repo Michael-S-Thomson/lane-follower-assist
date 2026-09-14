@@ -37,3 +37,6 @@ Thumbs.db
  Logs
 
 *.log
+
+# LFAS virtual environment
+lfas-env/
