@@ -40,3 +40,7 @@ Thumbs.db
 
 # LFAS virtual environment
 lfas-env/
+
+# Dataset
+data/
+
