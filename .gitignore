@@ -1,46 +1,24 @@
- Python
 
-**pycache**/
+# Python
+__pycache__/
 *.py[cod]
-*.pyo
+*.pyd
 
- Jupyter
-
-.ipynb_checkpoints/
-
- Virtual environments
-
-venv/
-env/
-.venv/
-
- IDE
-
-.vscode/
-.idea/
-
- Operating system
-
-.DS_Store
-Thumbs.db
-
- Secrets
-
-.env
-*.env
-
- Local data
-
-*.csv
-*.json
-
- Logs
-
-*.log
-
-# LFAS virtual environment
+# Virtual environments
 lfas-env/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
 
 # Dataset
 data/
 
+# Trained model files
+*.keras
+
+# IDE and operating system
+.vscode/
+.DS_Store
+Thumbs.db
